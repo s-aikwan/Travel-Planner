@@ -1,0 +1,4907 @@
+{
+    "timestamp": "2025-09-17T17:51:58.604757",
+    "flight_data": {
+        "pagination": {
+            "limit": 100,
+            "offset": 0,
+            "count": 100,
+            "total": 184502
+        },
+        "data": [
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Adelaide International Airport",
+                    "timezone": "Australia/Adelaide",
+                    "iata": "ADL",
+                    "icao": "YPAD",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": null,
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Air New Zealand",
+                    "iata": "NZ",
+                    "icao": "ANZ"
+                },
+                "flight": {
+                    "number": "191",
+                    "iata": "NZ191",
+                    "icao": "ANZ191",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "I",
+                    "gate": "9",
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:25:00+00:00",
+                    "estimated": "2025-09-18T08:25:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Adelaide International Airport",
+                    "timezone": "Australia/Adelaide",
+                    "iata": "ADL",
+                    "icao": "YPAD",
+                    "terminal": "1",
+                    "gate": "19",
+                    "baggage": null,
+                    "scheduled": "2025-09-18T10:55:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Virgin Australia",
+                    "iata": "VA",
+                    "icao": "VOZ"
+                },
+                "flight": {
+                    "number": "7091",
+                    "iata": "VA7091",
+                    "icao": "VOZ7091",
+                    "codeshared": {
+                        "airline_name": "air new zealand",
+                        "airline_iata": "nz",
+                        "airline_icao": "anz",
+                        "flight_number": "191",
+                        "flight_iata": "nz191",
+                        "flight_icao": "anz191"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "I",
+                    "gate": "9",
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:25:00+00:00",
+                    "estimated": "2025-09-18T08:25:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Adelaide International Airport",
+                    "timezone": "Australia/Adelaide",
+                    "iata": "ADL",
+                    "icao": "YPAD",
+                    "terminal": "1",
+                    "gate": "19",
+                    "baggage": null,
+                    "scheduled": "2025-09-18T10:55:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "United Airlines",
+                    "iata": "UA",
+                    "icao": "UAL"
+                },
+                "flight": {
+                    "number": "6749",
+                    "iata": "UA6749",
+                    "icao": "UAL6749",
+                    "codeshared": {
+                        "airline_name": "air new zealand",
+                        "airline_iata": "nz",
+                        "airline_icao": "anz",
+                        "flight_number": "191",
+                        "flight_iata": "nz191",
+                        "flight_icao": "anz191"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "I",
+                    "gate": "9",
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:25:00+00:00",
+                    "estimated": "2025-09-18T08:25:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Adelaide International Airport",
+                    "timezone": "Australia/Adelaide",
+                    "iata": "ADL",
+                    "icao": "YPAD",
+                    "terminal": "1",
+                    "gate": "19",
+                    "baggage": null,
+                    "scheduled": "2025-09-18T10:55:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Singapore Airlines",
+                    "iata": "SQ",
+                    "icao": "SIA"
+                },
+                "flight": {
+                    "number": "4202",
+                    "iata": "SQ4202",
+                    "icao": "SIA4202",
+                    "codeshared": {
+                        "airline_name": "air new zealand",
+                        "airline_iata": "nz",
+                        "airline_icao": "anz",
+                        "flight_number": "191",
+                        "flight_iata": "nz191",
+                        "flight_icao": "anz191"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "I",
+                    "gate": "9",
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:25:00+00:00",
+                    "estimated": "2025-09-18T08:25:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Adelaide International Airport",
+                    "timezone": "Australia/Adelaide",
+                    "iata": "ADL",
+                    "icao": "YPAD",
+                    "terminal": "1",
+                    "gate": "19",
+                    "baggage": null,
+                    "scheduled": "2025-09-18T10:55:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Air China LTD",
+                    "iata": "CA",
+                    "icao": "CCA"
+                },
+                "flight": {
+                    "number": "5105",
+                    "iata": "CA5105",
+                    "icao": "CCA5105",
+                    "codeshared": {
+                        "airline_name": "air new zealand",
+                        "airline_iata": "nz",
+                        "airline_icao": "anz",
+                        "flight_number": "191",
+                        "flight_iata": "nz191",
+                        "flight_icao": "anz191"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "D",
+                    "gate": "43",
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:15:00+00:00",
+                    "estimated": "2025-09-18T08:15:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Palmerston North",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "PMR",
+                    "icao": "NZPM",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:30:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Air New Zealand",
+                    "iata": "NZ",
+                    "icao": "ANZ"
+                },
+                "flight": {
+                    "number": "5579",
+                    "iata": "NZ5579",
+                    "icao": "ANZ5579",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "D",
+                    "gate": "43",
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:15:00+00:00",
+                    "estimated": "2025-09-18T08:15:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Palmerston North",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "PMR",
+                    "icao": "NZPM",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:30:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Air China LTD",
+                    "iata": "CA",
+                    "icao": "CCA"
+                },
+                "flight": {
+                    "number": "5965",
+                    "iata": "CA5965",
+                    "icao": "CCA5965",
+                    "codeshared": {
+                        "airline_name": "air new zealand",
+                        "airline_iata": "nz",
+                        "airline_icao": "anz",
+                        "flight_number": "5579",
+                        "flight_iata": "nz5579",
+                        "flight_icao": "anz5579"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "D",
+                    "gate": "47",
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:15:00+00:00",
+                    "estimated": "2025-09-18T08:15:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Rotorua",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "ROT",
+                    "icao": "NZRO",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:00:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Air New Zealand",
+                    "iata": "NZ",
+                    "icao": "ANZ"
+                },
+                "flight": {
+                    "number": "5151",
+                    "iata": "NZ5151",
+                    "icao": "ANZ5151",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "D",
+                    "gate": "47",
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:15:00+00:00",
+                    "estimated": "2025-09-18T08:15:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Rotorua",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "ROT",
+                    "icao": "NZRO",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:00:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Singapore Airlines",
+                    "iata": "SQ",
+                    "icao": "SIA"
+                },
+                "flight": {
+                    "number": "4418",
+                    "iata": "SQ4418",
+                    "icao": "SIA4418",
+                    "codeshared": {
+                        "airline_name": "air new zealand",
+                        "airline_iata": "nz",
+                        "airline_icao": "anz",
+                        "flight_number": "5151",
+                        "flight_iata": "nz5151",
+                        "flight_icao": "anz5151"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "D",
+                    "gate": "47",
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:15:00+00:00",
+                    "estimated": "2025-09-18T08:15:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Rotorua",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "ROT",
+                    "icao": "NZRO",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:00:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Qantas",
+                    "iata": "QF",
+                    "icao": "QFA"
+                },
+                "flight": {
+                    "number": "8533",
+                    "iata": "QF8533",
+                    "icao": "QFA8533",
+                    "codeshared": {
+                        "airline_name": "air new zealand",
+                        "airline_iata": "nz",
+                        "airline_icao": "anz",
+                        "flight_number": "5151",
+                        "flight_iata": "nz5151",
+                        "flight_icao": "anz5151"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "D",
+                    "gate": "47",
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:15:00+00:00",
+                    "estimated": "2025-09-18T08:15:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Rotorua",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "ROT",
+                    "icao": "NZRO",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:00:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Etihad Airways",
+                    "iata": "EY",
+                    "icao": "ETD"
+                },
+                "flight": {
+                    "number": "4483",
+                    "iata": "EY4483",
+                    "icao": "ETD4483",
+                    "codeshared": {
+                        "airline_name": "air new zealand",
+                        "airline_iata": "nz",
+                        "airline_icao": "anz",
+                        "flight_number": "5151",
+                        "flight_iata": "nz5151",
+                        "flight_icao": "anz5151"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "D",
+                    "gate": "47",
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:15:00+00:00",
+                    "estimated": "2025-09-18T08:15:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Rotorua",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "ROT",
+                    "icao": "NZRO",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:00:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Air China LTD",
+                    "iata": "CA",
+                    "icao": "CCA"
+                },
+                "flight": {
+                    "number": "5962",
+                    "iata": "CA5962",
+                    "icao": "CCA5962",
+                    "codeshared": {
+                        "airline_name": "air new zealand",
+                        "airline_iata": "nz",
+                        "airline_icao": "anz",
+                        "flight_number": "5151",
+                        "flight_iata": "nz5151",
+                        "flight_icao": "anz5151"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "D",
+                    "gate": "20",
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:15:00+00:00",
+                    "estimated": "2025-09-18T08:15:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Queenstown",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "ZQN",
+                    "icao": "NZQN",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T10:10:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Jetstar",
+                    "iata": "JQ",
+                    "icao": "JST"
+                },
+                "flight": {
+                    "number": "295",
+                    "iata": "JQ295",
+                    "icao": "JST295",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "D",
+                    "gate": "20",
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:15:00+00:00",
+                    "estimated": "2025-09-18T08:15:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Queenstown",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "ZQN",
+                    "icao": "NZQN",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T10:10:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Qantas",
+                    "iata": "QF",
+                    "icao": "QFA"
+                },
+                "flight": {
+                    "number": "5819",
+                    "iata": "QF5819",
+                    "icao": "QFA5819",
+                    "codeshared": {
+                        "airline_name": "jetstar",
+                        "airline_iata": "jq",
+                        "airline_icao": "jst",
+                        "flight_number": "295",
+                        "flight_iata": "jq295",
+                        "flight_icao": "jst295"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "D",
+                    "gate": "20",
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:15:00+00:00",
+                    "estimated": "2025-09-18T08:15:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Queenstown",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "ZQN",
+                    "icao": "NZQN",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T10:10:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "LATAM Airlines",
+                    "iata": "LA",
+                    "icao": "LAN"
+                },
+                "flight": {
+                    "number": "5685",
+                    "iata": "LA5685",
+                    "icao": "LAN5685",
+                    "codeshared": {
+                        "airline_name": "jetstar",
+                        "airline_iata": "jq",
+                        "airline_icao": "jst",
+                        "flight_number": "295",
+                        "flight_iata": "jq295",
+                        "flight_icao": "jst295"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "D",
+                    "gate": "20",
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:15:00+00:00",
+                    "estimated": "2025-09-18T08:15:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Queenstown",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "ZQN",
+                    "icao": "NZQN",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T10:10:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Emirates",
+                    "iata": "EK",
+                    "icao": "UAE"
+                },
+                "flight": {
+                    "number": "7565",
+                    "iata": "EK7565",
+                    "icao": "UAE7565",
+                    "codeshared": {
+                        "airline_name": "jetstar",
+                        "airline_iata": "jq",
+                        "airline_icao": "jst",
+                        "flight_number": "295",
+                        "flight_iata": "jq295",
+                        "flight_icao": "jst295"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "D",
+                    "gate": "20",
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:15:00+00:00",
+                    "estimated": "2025-09-18T08:15:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Queenstown",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "ZQN",
+                    "icao": "NZQN",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T10:10:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "American Airlines",
+                    "iata": "AA",
+                    "icao": "AAL"
+                },
+                "flight": {
+                    "number": "9033",
+                    "iata": "AA9033",
+                    "icao": "AAL9033",
+                    "codeshared": {
+                        "airline_name": "jetstar",
+                        "airline_iata": "jq",
+                        "airline_icao": "jst",
+                        "flight_number": "295",
+                        "flight_iata": "jq295",
+                        "flight_icao": "jst295"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "D",
+                    "gate": "A",
+                    "delay": 195,
+                    "scheduled": "2025-09-18T08:00:00+00:00",
+                    "estimated": "2025-09-18T08:00:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Whakatane",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "WHK",
+                    "icao": "NZWK",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T08:40:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Air Chathams",
+                    "iata": "CV",
+                    "icao": "CVA"
+                },
+                "flight": {
+                    "number": "820",
+                    "iata": "CV820",
+                    "icao": "CVA820",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "D",
+                    "gate": "45",
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:00:00+00:00",
+                    "estimated": "2025-09-18T08:00:00+00:00",
+                    "actual": "2025-09-18T08:00:00+00:00",
+                    "estimated_runway": "2025-09-18T08:00:00+00:00",
+                    "actual_runway": "2025-09-18T08:00:00+00:00"
+                },
+                "arrival": {
+                    "airport": "New Plymouth",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "NPL",
+                    "icao": "NZNP",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T08:55:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Air New Zealand",
+                    "iata": "NZ",
+                    "icao": "ANZ"
+                },
+                "flight": {
+                    "number": "5035",
+                    "iata": "NZ5035",
+                    "icao": "ANZ5035",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "D",
+                    "gate": "45",
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:00:00+00:00",
+                    "estimated": "2025-09-18T08:00:00+00:00",
+                    "actual": "2025-09-18T08:00:00+00:00",
+                    "estimated_runway": "2025-09-18T08:00:00+00:00",
+                    "actual_runway": "2025-09-18T08:00:00+00:00"
+                },
+                "arrival": {
+                    "airport": "New Plymouth",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "NPL",
+                    "icao": "NZNP",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T08:55:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Qantas",
+                    "iata": "QF",
+                    "icao": "QFA"
+                },
+                "flight": {
+                    "number": "8499",
+                    "iata": "QF8499",
+                    "icao": "QFA8499",
+                    "codeshared": {
+                        "airline_name": "air new zealand",
+                        "airline_iata": "nz",
+                        "airline_icao": "anz",
+                        "flight_number": "5035",
+                        "flight_iata": "nz5035",
+                        "flight_icao": "anz5035"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "D",
+                    "gate": "45",
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:00:00+00:00",
+                    "estimated": "2025-09-18T08:00:00+00:00",
+                    "actual": "2025-09-18T08:00:00+00:00",
+                    "estimated_runway": "2025-09-18T08:00:00+00:00",
+                    "actual_runway": "2025-09-18T08:00:00+00:00"
+                },
+                "arrival": {
+                    "airport": "New Plymouth",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "NPL",
+                    "icao": "NZNP",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T08:55:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Air China LTD",
+                    "iata": "CA",
+                    "icao": "CCA"
+                },
+                "flight": {
+                    "number": "5902",
+                    "iata": "CA5902",
+                    "icao": "CCA5902",
+                    "codeshared": {
+                        "airline_name": "air new zealand",
+                        "airline_iata": "nz",
+                        "airline_icao": "anz",
+                        "flight_number": "5035",
+                        "flight_iata": "nz5035",
+                        "flight_icao": "anz5035"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "D",
+                    "gate": "29",
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:00:00+00:00",
+                    "estimated": "2025-09-18T08:00:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Wellington International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "WLG",
+                    "icao": "NZWN",
+                    "terminal": null,
+                    "gate": "13",
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:10:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Air New Zealand",
+                    "iata": "NZ",
+                    "icao": "ANZ"
+                },
+                "flight": {
+                    "number": "409",
+                    "iata": "NZ409",
+                    "icao": "ANZ409",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "D",
+                    "gate": "29",
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:00:00+00:00",
+                    "estimated": "2025-09-18T08:00:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Wellington International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "WLG",
+                    "icao": "NZWN",
+                    "terminal": null,
+                    "gate": "13",
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:10:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "South African Airways",
+                    "iata": "SA",
+                    "icao": "SAA"
+                },
+                "flight": {
+                    "number": "7074",
+                    "iata": "SA7074",
+                    "icao": "SAA7074",
+                    "codeshared": {
+                        "airline_name": "air new zealand",
+                        "airline_iata": "nz",
+                        "airline_icao": "anz",
+                        "flight_number": "409",
+                        "flight_iata": "nz409",
+                        "flight_icao": "anz409"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "D",
+                    "gate": "29",
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:00:00+00:00",
+                    "estimated": "2025-09-18T08:00:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Wellington International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "WLG",
+                    "icao": "NZWN",
+                    "terminal": null,
+                    "gate": "13",
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:10:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Etihad Airways",
+                    "iata": "EY",
+                    "icao": "ETD"
+                },
+                "flight": {
+                    "number": "4607",
+                    "iata": "EY4607",
+                    "icao": "ETD4607",
+                    "codeshared": {
+                        "airline_name": "air new zealand",
+                        "airline_iata": "nz",
+                        "airline_icao": "anz",
+                        "flight_number": "409",
+                        "flight_iata": "nz409",
+                        "flight_icao": "anz409"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "D",
+                    "gate": "29",
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:00:00+00:00",
+                    "estimated": "2025-09-18T08:00:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Wellington International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "WLG",
+                    "icao": "NZWN",
+                    "terminal": null,
+                    "gate": "13",
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:10:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Air China LTD",
+                    "iata": "CA",
+                    "icao": "CCA"
+                },
+                "flight": {
+                    "number": "5984",
+                    "iata": "CA5984",
+                    "icao": "CCA5984",
+                    "codeshared": {
+                        "airline_name": "air new zealand",
+                        "airline_iata": "nz",
+                        "airline_icao": "anz",
+                        "flight_number": "409",
+                        "flight_iata": "nz409",
+                        "flight_icao": "anz409"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "D",
+                    "gate": "29",
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:00:00+00:00",
+                    "estimated": "2025-09-18T08:00:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Wellington International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "WLG",
+                    "icao": "NZWN",
+                    "terminal": null,
+                    "gate": "13",
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:10:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "EVA Air",
+                    "iata": "BR",
+                    "icao": "EVA"
+                },
+                "flight": {
+                    "number": "3245",
+                    "iata": "BR3245",
+                    "icao": "EVA3245",
+                    "codeshared": {
+                        "airline_name": "air new zealand",
+                        "airline_iata": "nz",
+                        "airline_icao": "anz",
+                        "flight_number": "409",
+                        "flight_iata": "nz409",
+                        "flight_icao": "anz409"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "D",
+                    "gate": "35",
+                    "delay": 7,
+                    "scheduled": "2025-09-18T07:55:00+00:00",
+                    "estimated": "2025-09-18T07:55:00+00:00",
+                    "actual": "2025-09-18T08:02:00+00:00",
+                    "estimated_runway": "2025-09-18T08:02:00+00:00",
+                    "actual_runway": "2025-09-18T08:02:00+00:00"
+                },
+                "arrival": {
+                    "airport": "Taupo",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "TUO",
+                    "icao": "NZAP",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T08:45:00+00:00",
+                    "delay": null,
+                    "estimated": "2025-09-18T08:39:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Air New Zealand",
+                    "iata": "NZ",
+                    "icao": "ANZ"
+                },
+                "flight": {
+                    "number": "5091",
+                    "iata": "NZ5091",
+                    "icao": "ANZ5091",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Auckland International",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "AKL",
+                    "icao": "NZAA",
+                    "terminal": "D",
+                    "gate": "35",
+                    "delay": 7,
+                    "scheduled": "2025-09-18T07:55:00+00:00",
+                    "estimated": "2025-09-18T07:55:00+00:00",
+                    "actual": "2025-09-18T08:02:00+00:00",
+                    "estimated_runway": "2025-09-18T08:02:00+00:00",
+                    "actual_runway": "2025-09-18T08:02:00+00:00"
+                },
+                "arrival": {
+                    "airport": "Taupo",
+                    "timezone": "Pacific/Auckland",
+                    "iata": "TUO",
+                    "icao": "NZAP",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T08:45:00+00:00",
+                    "delay": null,
+                    "estimated": "2025-09-18T08:39:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Singapore Airlines",
+                    "iata": "SQ",
+                    "icao": "SIA"
+                },
+                "flight": {
+                    "number": "4430",
+                    "iata": "SQ4430",
+                    "icao": "SIA4430",
+                    "codeshared": {
+                        "airline_name": "air new zealand",
+                        "airline_iata": "nz",
+                        "airline_icao": "anz",
+                        "flight_number": "5091",
+                        "flight_iata": "nz5091",
+                        "flight_icao": "anz5091"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "landed",
+                "departure": {
+                    "airport": "Adelaide International Airport",
+                    "timezone": "Australia/Adelaide",
+                    "iata": "ADL",
+                    "icao": "YPAD",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": 15,
+                    "scheduled": "2025-09-18T01:35:00+00:00",
+                    "estimated": "2025-09-18T01:35:00+00:00",
+                    "actual": "2025-09-18T01:49:00+00:00",
+                    "estimated_runway": "2025-09-18T01:49:00+00:00",
+                    "actual_runway": "2025-09-18T01:49:00+00:00"
+                },
+                "arrival": {
+                    "airport": "Olympic Dam",
+                    "timezone": "Australia/Adelaide",
+                    "iata": "OLP",
+                    "icao": "YOLD",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T03:00:00+00:00",
+                    "delay": 20,
+                    "estimated": "2025-09-18T03:23:00+00:00",
+                    "actual": "2025-09-18T03:20:00+00:00",
+                    "estimated_runway": "2025-09-18T03:20:00+00:00",
+                    "actual_runway": "2025-09-18T03:20:00+00:00"
+                },
+                "airline": {
+                    "name": "PLAY Europe",
+                    "iata": "FD",
+                    "icao": "FPE"
+                },
+                "flight": {
+                    "number": "568",
+                    "iata": "FD568",
+                    "icao": "FPE568",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Adelaide International Airport",
+                    "timezone": "Australia/Adelaide",
+                    "iata": "ADL",
+                    "icao": "YPAD",
+                    "terminal": "1",
+                    "gate": "50",
+                    "delay": null,
+                    "scheduled": "2025-09-18T07:00:00+00:00",
+                    "estimated": "2025-09-18T07:00:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Olympic Dam",
+                    "timezone": "Australia/Adelaide",
+                    "iata": "OLP",
+                    "icao": "YOLD",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T08:10:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Alliance Airlines",
+                    "iata": "QQ",
+                    "icao": "UTY"
+                },
+                "flight": {
+                    "number": "3104",
+                    "iata": "QQ3104",
+                    "icao": "UTY3104",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Adelaide International Airport",
+                    "timezone": "Australia/Adelaide",
+                    "iata": "ADL",
+                    "icao": "YPAD",
+                    "terminal": "1",
+                    "gate": "50",
+                    "delay": null,
+                    "scheduled": "2025-09-18T06:30:00+00:00",
+                    "estimated": "2025-09-18T06:30:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Olympic Dam",
+                    "timezone": "Australia/Adelaide",
+                    "iata": "OLP",
+                    "icao": "YOLD",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T07:40:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Alliance Airlines",
+                    "iata": "QQ",
+                    "icao": "UTY"
+                },
+                "flight": {
+                    "number": "3102",
+                    "iata": "QQ3102",
+                    "icao": "UTY3102",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Adelaide International Airport",
+                    "timezone": "Australia/Adelaide",
+                    "iata": "ADL",
+                    "icao": "YPAD",
+                    "terminal": "1",
+                    "gate": "50",
+                    "delay": null,
+                    "scheduled": "2025-09-18T11:15:00+00:00",
+                    "estimated": "2025-09-18T11:15:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Olympic Dam",
+                    "timezone": "Australia/Adelaide",
+                    "iata": "OLP",
+                    "icao": "YOLD",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T12:25:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Alliance Airlines",
+                    "iata": "QQ",
+                    "icao": "UTY"
+                },
+                "flight": {
+                    "number": "3118",
+                    "iata": "QQ3118",
+                    "icao": "UTY3118",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Adelaide International Airport",
+                    "timezone": "Australia/Adelaide",
+                    "iata": "ADL",
+                    "icao": "YPAD",
+                    "terminal": "1",
+                    "gate": "14",
+                    "delay": null,
+                    "scheduled": "2025-09-18T10:45:00+00:00",
+                    "estimated": "2025-09-18T10:45:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Olympic Dam",
+                    "timezone": "Australia/Adelaide",
+                    "iata": "OLP",
+                    "icao": "YOLD",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T11:55:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Alliance Airlines",
+                    "iata": "QQ",
+                    "icao": "UTY"
+                },
+                "flight": {
+                    "number": "3116",
+                    "iata": "QQ3116",
+                    "icao": "UTY3116",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Darwin",
+                    "timezone": "Australia/Darwin",
+                    "iata": "DRW",
+                    "icao": "YPDN",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T07:00:00+00:00",
+                    "estimated": "2025-09-18T07:00:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Mcarthur River",
+                    "timezone": "Australia/Darwin",
+                    "iata": "MCV",
+                    "icao": "YMHU",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T08:30:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Airnorth",
+                    "iata": "TL",
+                    "icao": "ANO"
+                },
+                "flight": {
+                    "number": "112",
+                    "iata": "TL112",
+                    "icao": "ANO112",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Olympic Dam",
+                    "timezone": "Australia/Adelaide",
+                    "iata": "OLP",
+                    "icao": "YOLD",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T02:50:00+00:00",
+                    "estimated": "2025-09-18T02:50:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Adelaide International Airport",
+                    "timezone": "Australia/Adelaide",
+                    "iata": "ADL",
+                    "icao": "YPAD",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T03:55:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "empty",
+                    "iata": null,
+                    "icao": null
+                },
+                "flight": {
+                    "number": null,
+                    "iata": null,
+                    "icao": null,
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Olympic Dam",
+                    "timezone": "Australia/Adelaide",
+                    "iata": "OLP",
+                    "icao": "YOLD",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:50:00+00:00",
+                    "estimated": "2025-09-18T08:50:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Adelaide International Airport",
+                    "timezone": "Australia/Adelaide",
+                    "iata": "ADL",
+                    "icao": "YPAD",
+                    "terminal": "1",
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T10:00:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Alliance Airlines",
+                    "iata": "QQ",
+                    "icao": "UTY"
+                },
+                "flight": {
+                    "number": "3105",
+                    "iata": "QQ3105",
+                    "icao": "UTY3105",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Olympic Dam",
+                    "timezone": "Australia/Adelaide",
+                    "iata": "OLP",
+                    "icao": "YOLD",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:20:00+00:00",
+                    "estimated": "2025-09-18T08:20:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Adelaide International Airport",
+                    "timezone": "Australia/Adelaide",
+                    "iata": "ADL",
+                    "icao": "YPAD",
+                    "terminal": "1",
+                    "gate": "14",
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:30:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Alliance Airlines",
+                    "iata": "QQ",
+                    "icao": "UTY"
+                },
+                "flight": {
+                    "number": "3103",
+                    "iata": "QQ3103",
+                    "icao": "UTY3103",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Olympic Dam",
+                    "timezone": "Australia/Adelaide",
+                    "iata": "OLP",
+                    "icao": "YOLD",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T12:35:00+00:00",
+                    "estimated": "2025-09-18T12:35:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Adelaide International Airport",
+                    "timezone": "Australia/Adelaide",
+                    "iata": "ADL",
+                    "icao": "YPAD",
+                    "terminal": "1",
+                    "gate": "26",
+                    "baggage": null,
+                    "scheduled": "2025-09-18T13:45:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Alliance Airlines",
+                    "iata": "QQ",
+                    "icao": "UTY"
+                },
+                "flight": {
+                    "number": "3119",
+                    "iata": "QQ3119",
+                    "icao": "UTY3119",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Mcarthur River",
+                    "timezone": "Australia/Darwin",
+                    "iata": "MCV",
+                    "icao": "YMHU",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T09:00:00+00:00",
+                    "estimated": "2025-09-18T09:00:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Darwin",
+                    "timezone": "Australia/Darwin",
+                    "iata": "DRW",
+                    "icao": "YPDN",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T10:20:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Airnorth",
+                    "iata": "TL",
+                    "icao": "ANO"
+                },
+                "flight": {
+                    "number": "113",
+                    "iata": "TL113",
+                    "icao": "ANO113",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Kuala Lumpur International Airport (klia)",
+                    "timezone": "Asia/Kuala_Lumpur",
+                    "iata": "KUL",
+                    "icao": "WMKK",
+                    "terminal": "2",
+                    "gate": "J17",
+                    "delay": null,
+                    "scheduled": "2025-09-18T09:15:00+00:00",
+                    "estimated": "2025-09-18T09:15:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Kuching",
+                    "timezone": "Asia/Kuching",
+                    "iata": "KCH",
+                    "icao": "WBGG",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T11:05:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "AirAsia",
+                    "iata": "AK",
+                    "icao": "AXM"
+                },
+                "flight": {
+                    "number": "5204",
+                    "iata": "AK5204",
+                    "icao": "AXM5204",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Supadio",
+                    "timezone": "Asia/Pontianak",
+                    "iata": "PNK",
+                    "icao": "WIOO",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T09:20:00+00:00",
+                    "estimated": "2025-09-18T09:20:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Kuching",
+                    "timezone": "Asia/Kuching",
+                    "iata": "KCH",
+                    "icao": "WBGG",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T11:05:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "AirAsia",
+                    "iata": "AK",
+                    "icao": "AXM"
+                },
+                "flight": {
+                    "number": "1782",
+                    "iata": "AK1782",
+                    "icao": "AXM1782",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Kuala Lumpur International Airport (klia)",
+                    "timezone": "Asia/Kuala_Lumpur",
+                    "iata": "KUL",
+                    "icao": "WMKK",
+                    "terminal": "1",
+                    "gate": "A5",
+                    "delay": null,
+                    "scheduled": "2025-09-18T09:00:00+00:00",
+                    "estimated": "2025-09-18T09:00:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Kuching",
+                    "timezone": "Asia/Kuching",
+                    "iata": "KCH",
+                    "icao": "WBGG",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T10:50:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Malindo Air",
+                    "iata": "OD",
+                    "icao": "MXD"
+                },
+                "flight": {
+                    "number": "1634",
+                    "iata": "OD1634",
+                    "icao": "MXD1634",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Tanjung Manis",
+                    "timezone": "Asia/Kuching",
+                    "iata": "TGC",
+                    "icao": "WBTM",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T09:45:00+00:00",
+                    "estimated": "2025-09-18T09:45:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Kuching",
+                    "timezone": "Asia/Kuching",
+                    "iata": "KCH",
+                    "icao": "WBGG",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T10:25:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Malaysia Airlines",
+                    "iata": "MH",
+                    "icao": "MAS"
+                },
+                "flight": {
+                    "number": "3712",
+                    "iata": "MH3712",
+                    "icao": "MAS3712",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Kuala Lumpur International Airport (klia)",
+                    "timezone": "Asia/Kuala_Lumpur",
+                    "iata": "KUL",
+                    "icao": "WMKK",
+                    "terminal": "2",
+                    "gate": "J13",
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:00:00+00:00",
+                    "estimated": "2025-09-18T08:00:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Kuching",
+                    "timezone": "Asia/Kuching",
+                    "iata": "KCH",
+                    "icao": "WBGG",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": "C",
+                    "scheduled": "2025-09-18T09:50:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "AirAsia",
+                    "iata": "AK",
+                    "icao": "AXM"
+                },
+                "flight": {
+                    "number": "5206",
+                    "iata": "AK5206",
+                    "icao": "AXM5206",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Mukah",
+                    "timezone": "Asia/Kuching",
+                    "iata": "MKM",
+                    "icao": "WBGK",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:50:00+00:00",
+                    "estimated": "2025-09-18T08:50:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Kuching",
+                    "timezone": "Asia/Kuching",
+                    "iata": "KCH",
+                    "icao": "WBGG",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:40:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Malaysia Airlines",
+                    "iata": "MH",
+                    "icao": "MAS"
+                },
+                "flight": {
+                    "number": "3420",
+                    "iata": "MH3420",
+                    "icao": "MAS3420",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Mukah",
+                    "timezone": "Asia/Kuching",
+                    "iata": "MKM",
+                    "icao": "WBGK",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:50:00+00:00",
+                    "estimated": "2025-09-18T08:50:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Kuching",
+                    "timezone": "Asia/Kuching",
+                    "iata": "KCH",
+                    "icao": "WBGG",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:40:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Firefly",
+                    "iata": "FY",
+                    "icao": "FFM"
+                },
+                "flight": {
+                    "number": "4784",
+                    "iata": "FY4784",
+                    "icao": "FFM4784",
+                    "codeshared": {
+                        "airline_name": "malaysia airlines",
+                        "airline_iata": "mh",
+                        "airline_icao": "mas",
+                        "flight_number": "3420",
+                        "flight_iata": "mh3420",
+                        "flight_icao": "mas3420"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Bintulu",
+                    "timezone": "Asia/Kuching",
+                    "iata": "BTU",
+                    "icao": "WBGB",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:45:00+00:00",
+                    "estimated": "2025-09-18T08:45:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Kuching",
+                    "timezone": "Asia/Kuching",
+                    "iata": "KCH",
+                    "icao": "WBGG",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:35:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "AirAsia",
+                    "iata": "AK",
+                    "icao": "AXM"
+                },
+                "flight": {
+                    "number": "6065",
+                    "iata": "AK6065",
+                    "icao": "AXM6065",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Miri",
+                    "timezone": "Asia/Kuching",
+                    "iata": "MYY",
+                    "icao": "WBGR",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:30:00+00:00",
+                    "estimated": "2025-09-18T08:30:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Kuching",
+                    "timezone": "Asia/Kuching",
+                    "iata": "KCH",
+                    "icao": "WBGG",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:30:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "AirAsia",
+                    "iata": "AK",
+                    "icao": "AXM"
+                },
+                "flight": {
+                    "number": "6181",
+                    "iata": "AK6181",
+                    "icao": "AXM6181",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Kuala Lumpur International Airport (klia)",
+                    "timezone": "Asia/Kuala_Lumpur",
+                    "iata": "KUL",
+                    "icao": "WMKK",
+                    "terminal": "1",
+                    "gate": "A6",
+                    "delay": null,
+                    "scheduled": "2025-09-18T07:20:00+00:00",
+                    "estimated": "2025-09-18T07:20:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Kuching",
+                    "timezone": "Asia/Kuching",
+                    "iata": "KCH",
+                    "icao": "WBGG",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:10:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Malaysia Airlines",
+                    "iata": "MH",
+                    "icao": "MAS"
+                },
+                "flight": {
+                    "number": "2542",
+                    "iata": "MH2542",
+                    "icao": "MAS2542",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Kuala Lumpur International Airport (klia)",
+                    "timezone": "Asia/Kuala_Lumpur",
+                    "iata": "KUL",
+                    "icao": "WMKK",
+                    "terminal": "1",
+                    "gate": "A6",
+                    "delay": null,
+                    "scheduled": "2025-09-18T07:20:00+00:00",
+                    "estimated": "2025-09-18T07:20:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Kuching",
+                    "timezone": "Asia/Kuching",
+                    "iata": "KCH",
+                    "icao": "WBGG",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:10:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Turkish Airlines",
+                    "iata": "TK",
+                    "icao": "THY"
+                },
+                "flight": {
+                    "number": "4823",
+                    "iata": "TK4823",
+                    "icao": "THY4823",
+                    "codeshared": {
+                        "airline_name": "malaysia airlines",
+                        "airline_iata": "mh",
+                        "airline_icao": "mas",
+                        "flight_number": "2542",
+                        "flight_iata": "mh2542",
+                        "flight_icao": "mas2542"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Kuala Lumpur International Airport (klia)",
+                    "timezone": "Asia/Kuala_Lumpur",
+                    "iata": "KUL",
+                    "icao": "WMKK",
+                    "terminal": "1",
+                    "gate": "A6",
+                    "delay": null,
+                    "scheduled": "2025-09-18T07:20:00+00:00",
+                    "estimated": "2025-09-18T07:20:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Kuching",
+                    "timezone": "Asia/Kuching",
+                    "iata": "KCH",
+                    "icao": "WBGG",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:10:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Qatar Airways",
+                    "iata": "QR",
+                    "icao": "QTR"
+                },
+                "flight": {
+                    "number": "5422",
+                    "iata": "QR5422",
+                    "icao": "QTR5422",
+                    "codeshared": {
+                        "airline_name": "malaysia airlines",
+                        "airline_iata": "mh",
+                        "airline_icao": "mas",
+                        "flight_number": "2542",
+                        "flight_iata": "mh2542",
+                        "flight_icao": "mas2542"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Kuala Lumpur International Airport (klia)",
+                    "timezone": "Asia/Kuala_Lumpur",
+                    "iata": "KUL",
+                    "icao": "WMKK",
+                    "terminal": "1",
+                    "gate": "A6",
+                    "delay": null,
+                    "scheduled": "2025-09-18T07:20:00+00:00",
+                    "estimated": "2025-09-18T07:20:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Kuching",
+                    "timezone": "Asia/Kuching",
+                    "iata": "KCH",
+                    "icao": "WBGG",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:10:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Philippine Airlines",
+                    "iata": "PR",
+                    "icao": "PAL"
+                },
+                "flight": {
+                    "number": "3526",
+                    "iata": "PR3526",
+                    "icao": "PAL3526",
+                    "codeshared": {
+                        "airline_name": "malaysia airlines",
+                        "airline_iata": "mh",
+                        "airline_icao": "mas",
+                        "flight_number": "2542",
+                        "flight_iata": "mh2542",
+                        "flight_icao": "mas2542"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Kuala Lumpur International Airport (klia)",
+                    "timezone": "Asia/Kuala_Lumpur",
+                    "iata": "KUL",
+                    "icao": "WMKK",
+                    "terminal": "1",
+                    "gate": "A6",
+                    "delay": null,
+                    "scheduled": "2025-09-18T07:20:00+00:00",
+                    "estimated": "2025-09-18T07:20:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Kuching",
+                    "timezone": "Asia/Kuching",
+                    "iata": "KCH",
+                    "icao": "WBGG",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:10:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Japan Airlines",
+                    "iata": "JL",
+                    "icao": "JTL"
+                },
+                "flight": {
+                    "number": "7973",
+                    "iata": "JL7973",
+                    "icao": "JTL7973",
+                    "codeshared": {
+                        "airline_name": "malaysia airlines",
+                        "airline_iata": "mh",
+                        "airline_icao": "mas",
+                        "flight_number": "2542",
+                        "flight_iata": "mh2542",
+                        "flight_icao": "mas2542"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Kuala Lumpur International Airport (klia)",
+                    "timezone": "Asia/Kuala_Lumpur",
+                    "iata": "KUL",
+                    "icao": "WMKK",
+                    "terminal": "1",
+                    "gate": "A6",
+                    "delay": null,
+                    "scheduled": "2025-09-18T07:20:00+00:00",
+                    "estimated": "2025-09-18T07:20:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Kuching",
+                    "timezone": "Asia/Kuching",
+                    "iata": "KCH",
+                    "icao": "WBGG",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:10:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Firefly",
+                    "iata": "FY",
+                    "icao": "FFM"
+                },
+                "flight": {
+                    "number": "7536",
+                    "iata": "FY7536",
+                    "icao": "FFM7536",
+                    "codeshared": {
+                        "airline_name": "malaysia airlines",
+                        "airline_iata": "mh",
+                        "airline_icao": "mas",
+                        "flight_number": "2542",
+                        "flight_iata": "mh2542",
+                        "flight_icao": "mas2542"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Kuala Lumpur International Airport (klia)",
+                    "timezone": "Asia/Kuala_Lumpur",
+                    "iata": "KUL",
+                    "icao": "WMKK",
+                    "terminal": "1",
+                    "gate": "A6",
+                    "delay": null,
+                    "scheduled": "2025-09-18T07:20:00+00:00",
+                    "estimated": "2025-09-18T07:20:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Kuching",
+                    "timezone": "Asia/Kuching",
+                    "iata": "KCH",
+                    "icao": "WBGG",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:10:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "IndiGo",
+                    "iata": "6E",
+                    "icao": "IGO"
+                },
+                "flight": {
+                    "number": "3742",
+                    "iata": "6E3742",
+                    "icao": "IGO3742",
+                    "codeshared": {
+                        "airline_name": "malaysia airlines",
+                        "airline_iata": "mh",
+                        "airline_icao": "mas",
+                        "flight_number": "2542",
+                        "flight_iata": "mh2542",
+                        "flight_icao": "mas2542"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Kota-Kinabalu International Airport",
+                    "timezone": "Asia/Kuching",
+                    "iata": "BKI",
+                    "icao": "WBKK",
+                    "terminal": "1",
+                    "gate": "D01",
+                    "delay": 11,
+                    "scheduled": "2025-09-18T07:50:00+00:00",
+                    "estimated": "2025-09-18T07:50:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Kuching",
+                    "timezone": "Asia/Kuching",
+                    "iata": "KCH",
+                    "icao": "WBGG",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": "C",
+                    "scheduled": "2025-09-18T09:10:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "AirAsia",
+                    "iata": "AK",
+                    "icao": "AXM"
+                },
+                "flight": {
+                    "number": "6351",
+                    "iata": "AK6351",
+                    "icao": "AXM6351",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Sultan Ismail International",
+                    "timezone": "Asia/Kuala_Lumpur",
+                    "iata": "JHB",
+                    "icao": "WMKJ",
+                    "terminal": null,
+                    "gate": "04",
+                    "delay": null,
+                    "scheduled": "2025-09-18T07:45:00+00:00",
+                    "estimated": "2025-09-18T07:45:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Kuching",
+                    "timezone": "Asia/Kuching",
+                    "iata": "KCH",
+                    "icao": "WBGG",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": "C",
+                    "scheduled": "2025-09-18T09:10:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "AirAsia",
+                    "iata": "AK",
+                    "icao": "AXM"
+                },
+                "flight": {
+                    "number": "5414",
+                    "iata": "AK5414",
+                    "icao": "AXM5414",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Kuala Lumpur International Airport (klia)",
+                    "timezone": "Asia/Kuala_Lumpur",
+                    "iata": "KUL",
+                    "icao": "WMKK",
+                    "terminal": "2",
+                    "gate": "J15",
+                    "delay": null,
+                    "scheduled": "2025-09-18T07:15:00+00:00",
+                    "estimated": "2025-09-18T07:15:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Kuching",
+                    "timezone": "Asia/Kuching",
+                    "iata": "KCH",
+                    "icao": "WBGG",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": "C",
+                    "scheduled": "2025-09-18T09:05:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "AirAsia",
+                    "iata": "AK",
+                    "icao": "AXM"
+                },
+                "flight": {
+                    "number": "5202",
+                    "iata": "AK5202",
+                    "icao": "AXM5202",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Sibu",
+                    "timezone": "Asia/Kuching",
+                    "iata": "SBW",
+                    "icao": "WBGS",
+                    "terminal": null,
+                    "gate": "1",
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:05:00+00:00",
+                    "estimated": "2025-09-18T08:05:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Kuching",
+                    "timezone": "Asia/Kuching",
+                    "iata": "KCH",
+                    "icao": "WBGG",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": "A",
+                    "scheduled": "2025-09-18T08:40:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "AirAsia",
+                    "iata": "AK",
+                    "icao": "AXM"
+                },
+                "flight": {
+                    "number": "6463",
+                    "iata": "AK6463",
+                    "icao": "AXM6463",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Bintulu",
+                    "timezone": "Asia/Kuching",
+                    "iata": "BTU",
+                    "icao": "WBGB",
+                    "terminal": null,
+                    "gate": "7",
+                    "delay": 4,
+                    "scheduled": "2025-09-18T07:20:00+00:00",
+                    "estimated": "2025-09-18T07:20:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Kuching",
+                    "timezone": "Asia/Kuching",
+                    "iata": "KCH",
+                    "icao": "WBGG",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": "A",
+                    "scheduled": "2025-09-18T08:10:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "AirAsia",
+                    "iata": "AK",
+                    "icao": "AXM"
+                },
+                "flight": {
+                    "number": "6057",
+                    "iata": "AK6057",
+                    "icao": "AXM6057",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Devi Ahilyabai Holkar",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "IDR",
+                    "icao": "VAID",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:30:00+00:00",
+                    "estimated": "2025-09-18T08:30:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Chhatrapati Shivaji International (Sahar International)",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "BOM",
+                    "icao": "VABB",
+                    "terminal": "1",
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:45:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "IndiGo",
+                    "iata": "6E",
+                    "icao": "IGO"
+                },
+                "flight": {
+                    "number": "5232",
+                    "iata": "6E5232",
+                    "icao": "IGO5232",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Devi Ahilyabai Holkar",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "IDR",
+                    "icao": "VAID",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:30:00+00:00",
+                    "estimated": "2025-09-18T08:30:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Chhatrapati Shivaji International (Sahar International)",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "BOM",
+                    "icao": "VABB",
+                    "terminal": "1",
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:45:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Virgin Atlantic",
+                    "iata": "VS",
+                    "icao": "VIR"
+                },
+                "flight": {
+                    "number": "9178",
+                    "iata": "VS9178",
+                    "icao": "VIR9178",
+                    "codeshared": {
+                        "airline_name": "indigo",
+                        "airline_iata": "6e",
+                        "airline_icao": "igo",
+                        "flight_number": "5232",
+                        "flight_iata": "6e5232",
+                        "flight_icao": "igo5232"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Devi Ahilyabai Holkar",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "IDR",
+                    "icao": "VAID",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T08:30:00+00:00",
+                    "estimated": "2025-09-18T08:30:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Chhatrapati Shivaji International (Sahar International)",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "BOM",
+                    "icao": "VABB",
+                    "terminal": "1",
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T09:45:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "British Airways",
+                    "iata": "BA",
+                    "icao": "BAW"
+                },
+                "flight": {
+                    "number": "7931",
+                    "iata": "BA7931",
+                    "icao": "BAW7931",
+                    "codeshared": {
+                        "airline_name": "indigo",
+                        "airline_iata": "6e",
+                        "airline_icao": "igo",
+                        "flight_number": "5232",
+                        "flight_iata": "6e5232",
+                        "flight_icao": "igo5232"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Devi Ahilyabai Holkar",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "IDR",
+                    "icao": "VAID",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T07:10:00+00:00",
+                    "estimated": "2025-09-18T07:10:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Bangalore International Airport",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "BLR",
+                    "icao": "VOBL",
+                    "terminal": "1",
+                    "gate": "A5",
+                    "baggage": "02",
+                    "scheduled": "2025-09-18T09:10:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "IndiGo",
+                    "iata": "6E",
+                    "icao": "IGO"
+                },
+                "flight": {
+                    "number": "701",
+                    "iata": "6E701",
+                    "icao": "IGO701",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Devi Ahilyabai Holkar",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "IDR",
+                    "icao": "VAID",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T07:10:00+00:00",
+                    "estimated": "2025-09-18T07:10:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Bangalore International Airport",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "BLR",
+                    "icao": "VOBL",
+                    "terminal": "1",
+                    "gate": "A5",
+                    "baggage": "02",
+                    "scheduled": "2025-09-18T09:10:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Virgin Atlantic",
+                    "iata": "VS",
+                    "icao": "VIR"
+                },
+                "flight": {
+                    "number": "9162",
+                    "iata": "VS9162",
+                    "icao": "VIR9162",
+                    "codeshared": {
+                        "airline_name": "indigo",
+                        "airline_iata": "6e",
+                        "airline_icao": "igo",
+                        "flight_number": "701",
+                        "flight_iata": "6e701",
+                        "flight_icao": "igo701"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Devi Ahilyabai Holkar",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "IDR",
+                    "icao": "VAID",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T07:10:00+00:00",
+                    "estimated": "2025-09-18T07:10:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Bangalore International Airport",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "BLR",
+                    "icao": "VOBL",
+                    "terminal": "1",
+                    "gate": "A5",
+                    "baggage": "02",
+                    "scheduled": "2025-09-18T09:10:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Qantas",
+                    "iata": "QF",
+                    "icao": "QFA"
+                },
+                "flight": {
+                    "number": "8912",
+                    "iata": "QF8912",
+                    "icao": "QFA8912",
+                    "codeshared": {
+                        "airline_name": "indigo",
+                        "airline_iata": "6e",
+                        "airline_icao": "igo",
+                        "flight_number": "701",
+                        "flight_iata": "6e701",
+                        "flight_icao": "igo701"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Devi Ahilyabai Holkar",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "IDR",
+                    "icao": "VAID",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T07:00:00+00:00",
+                    "estimated": "2025-09-18T07:00:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Indira Gandhi International",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "DEL",
+                    "icao": "VIDP",
+                    "terminal": "1",
+                    "gate": null,
+                    "baggage": "010",
+                    "scheduled": "2025-09-18T08:35:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "IndiGo",
+                    "iata": "6E",
+                    "icao": "IGO"
+                },
+                "flight": {
+                    "number": "6024",
+                    "iata": "6E6024",
+                    "icao": "IGO6024",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Devi Ahilyabai Holkar",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "IDR",
+                    "icao": "VAID",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T07:00:00+00:00",
+                    "estimated": "2025-09-18T07:00:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Indira Gandhi International",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "DEL",
+                    "icao": "VIDP",
+                    "terminal": "1",
+                    "gate": null,
+                    "baggage": "010",
+                    "scheduled": "2025-09-18T08:35:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Virgin Atlantic",
+                    "iata": "VS",
+                    "icao": "VIR"
+                },
+                "flight": {
+                    "number": "9184",
+                    "iata": "VS9184",
+                    "icao": "VIR9184",
+                    "codeshared": {
+                        "airline_name": "indigo",
+                        "airline_iata": "6e",
+                        "airline_icao": "igo",
+                        "flight_number": "6024",
+                        "flight_iata": "6e6024",
+                        "flight_icao": "igo6024"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Devi Ahilyabai Holkar",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "IDR",
+                    "icao": "VAID",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T07:00:00+00:00",
+                    "estimated": "2025-09-18T07:00:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Indira Gandhi International",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "DEL",
+                    "icao": "VIDP",
+                    "terminal": "1",
+                    "gate": null,
+                    "baggage": "010",
+                    "scheduled": "2025-09-18T08:35:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Qantas",
+                    "iata": "QF",
+                    "icao": "QFA"
+                },
+                "flight": {
+                    "number": "5388",
+                    "iata": "QF5388",
+                    "icao": "QFA5388",
+                    "codeshared": {
+                        "airline_name": "indigo",
+                        "airline_iata": "6e",
+                        "airline_icao": "igo",
+                        "flight_number": "6024",
+                        "flight_iata": "6e6024",
+                        "flight_icao": "igo6024"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Devi Ahilyabai Holkar",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "IDR",
+                    "icao": "VAID",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": 5,
+                    "scheduled": "2025-09-18T06:55:00+00:00",
+                    "estimated": "2025-09-18T06:55:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Jabalpur",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "JLR",
+                    "icao": "VAJB",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T08:20:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "IndiGo",
+                    "iata": "6E",
+                    "icao": "IGO"
+                },
+                "flight": {
+                    "number": "7316",
+                    "iata": "6E7316",
+                    "icao": "IGO7316",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Devi Ahilyabai Holkar",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "IDR",
+                    "icao": "VAID",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": 5,
+                    "scheduled": "2025-09-18T06:40:00+00:00",
+                    "estimated": "2025-09-18T06:40:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Raipur",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "RPR",
+                    "icao": "VERP",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T08:30:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "IndiGo",
+                    "iata": "6E",
+                    "icao": "IGO"
+                },
+                "flight": {
+                    "number": "7295",
+                    "iata": "6E7295",
+                    "icao": "IGO7295",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Devi Ahilyabai Holkar",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "IDR",
+                    "icao": "VAID",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T06:35:00+00:00",
+                    "estimated": "2025-09-18T06:35:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Chhatrapati Shivaji International (Sahar International)",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "BOM",
+                    "icao": "VABB",
+                    "terminal": "2",
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T07:55:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "IndiGo",
+                    "iata": "6E",
+                    "icao": "IGO"
+                },
+                "flight": {
+                    "number": "6184",
+                    "iata": "6E6184",
+                    "icao": "IGO6184",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Devi Ahilyabai Holkar",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "IDR",
+                    "icao": "VAID",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T06:35:00+00:00",
+                    "estimated": "2025-09-18T06:35:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Chhatrapati Shivaji International (Sahar International)",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "BOM",
+                    "icao": "VABB",
+                    "terminal": "2",
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T07:55:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Virgin Atlantic",
+                    "iata": "VS",
+                    "icao": "VIR"
+                },
+                "flight": {
+                    "number": "9175",
+                    "iata": "VS9175",
+                    "icao": "VIR9175",
+                    "codeshared": {
+                        "airline_name": "indigo",
+                        "airline_iata": "6e",
+                        "airline_icao": "igo",
+                        "flight_number": "6184",
+                        "flight_iata": "6e6184",
+                        "flight_icao": "igo6184"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Devi Ahilyabai Holkar",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "IDR",
+                    "icao": "VAID",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T06:35:00+00:00",
+                    "estimated": "2025-09-18T06:35:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Chhatrapati Shivaji International (Sahar International)",
+                    "timezone": "Asia/Kolkata",
+                    "iata": "BOM",
+                    "icao": "VABB",
+                    "terminal": "2",
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T07:55:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "British Airways",
+                    "iata": "BA",
+                    "icao": "BAW"
+                },
+                "flight": {
+                    "number": "7941",
+                    "iata": "BA7941",
+                    "icao": "BAW7941",
+                    "codeshared": {
+                        "airline_name": "indigo",
+                        "airline_iata": "6e",
+                        "airline_icao": "igo",
+                        "flight_number": "6184",
+                        "flight_iata": "6e6184",
+                        "flight_icao": "igo6184"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Manchester Airport",
+                    "timezone": "Europe/London",
+                    "iata": "MAN",
+                    "icao": "EGCC",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T03:30:00+00:00",
+                    "estimated": "2025-09-18T03:30:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Frankfurt-Hahn",
+                    "timezone": "Europe/Berlin",
+                    "iata": "HHN",
+                    "icao": "EDFH",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T05:10:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Atlas Air",
+                    "iata": "5Y",
+                    "icao": "GTI"
+                },
+                "flight": {
+                    "number": "8875",
+                    "iata": "5Y8875",
+                    "icao": "GTI8875",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "unknown",
+                "departure": {
+                    "airport": "Hangzhou",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "HGH",
+                    "icao": "ZSHC",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T01:45:00+00:00",
+                    "estimated": "2025-09-18T01:45:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Tianhe International",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "WUH",
+                    "icao": "ZHHH",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T02:50:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "SF Airlines",
+                    "iata": "O3",
+                    "icao": "CSS"
+                },
+                "flight": {
+                    "number": "7388",
+                    "iata": "O37388",
+                    "icao": "CSS7388",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "unknown",
+                "departure": {
+                    "airport": "Hangzhou",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "HGH",
+                    "icao": "ZSHC",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T01:45:00+00:00",
+                    "estimated": "2025-09-18T01:45:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Kansai International",
+                    "timezone": "Asia/Tokyo",
+                    "iata": "KIX",
+                    "icao": "RJBB",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T05:30:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "SF Airlines",
+                    "iata": "O3",
+                    "icao": "CSS"
+                },
+                "flight": {
+                    "number": "277",
+                    "iata": "O3277",
+                    "icao": "CSS277",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "unknown",
+                "departure": {
+                    "airport": "Hangzhou",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "HGH",
+                    "icao": "ZSHC",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T01:45:00+00:00",
+                    "estimated": "2025-09-18T01:45:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Tianjin Binhai International",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "TSN",
+                    "icao": "ZBTJ",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T03:30:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "SF Airlines",
+                    "iata": "O3",
+                    "icao": "CSS"
+                },
+                "flight": {
+                    "number": "7146",
+                    "iata": "O37146",
+                    "icao": "CSS7146",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "unknown",
+                "departure": {
+                    "airport": "Hangzhou",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "HGH",
+                    "icao": "ZSHC",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T01:40:00+00:00",
+                    "estimated": "2025-09-18T01:40:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Beijing Capital International",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "PEK",
+                    "icao": "ZBAA",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T04:00:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Suparna Airlines",
+                    "iata": "Y8",
+                    "icao": "YZR"
+                },
+                "flight": {
+                    "number": "7985",
+                    "iata": "Y87985",
+                    "icao": "YZR7985",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "cancelled",
+                "departure": {
+                    "airport": "Hangzhou",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "HGH",
+                    "icao": "ZSHC",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T01:30:00+00:00",
+                    "estimated": "2025-09-18T01:30:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Beijing Daxing International Airport",
+                    "timezone": "+8",
+                    "iata": "PKX",
+                    "icao": "ZBAD",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T04:00:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "China Postal Airlines",
+                    "iata": "CF",
+                    "icao": "CYZ"
+                },
+                "flight": {
+                    "number": "9085",
+                    "iata": "CF9085",
+                    "icao": "CYZ9085",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "unknown",
+                "departure": {
+                    "airport": "Hangzhou",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "HGH",
+                    "icao": "ZSHC",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T01:30:00+00:00",
+                    "estimated": "2025-09-18T01:30:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Zhengzhou",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "CGO",
+                    "icao": "ZHCC",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T03:20:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Suparna Airlines",
+                    "iata": "Y8",
+                    "icao": "YZR"
+                },
+                "flight": {
+                    "number": "7969",
+                    "iata": "Y87969",
+                    "icao": "YZR7969",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Hangzhou",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "HGH",
+                    "icao": "ZSHC",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T01:30:00+00:00",
+                    "estimated": "2025-09-18T01:30:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Jinjiang",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "JJN",
+                    "icao": "ZSQZ",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T02:40:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "SF Airlines",
+                    "iata": "O3",
+                    "icao": "CSS"
+                },
+                "flight": {
+                    "number": "7069",
+                    "iata": "O37069",
+                    "icao": "CSS7069",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Hangzhou",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "HGH",
+                    "icao": "ZSHC",
+                    "terminal": "4",
+                    "gate": "468",
+                    "delay": 42,
+                    "scheduled": "2025-09-18T01:20:00+00:00",
+                    "estimated": "2025-09-18T01:20:00+00:00",
+                    "actual": "2025-09-18T02:01:00+00:00",
+                    "estimated_runway": "2025-09-18T02:01:00+00:00",
+                    "actual_runway": "2025-09-18T02:01:00+00:00"
+                },
+                "arrival": {
+                    "airport": "Don Muang",
+                    "timezone": "Asia/Bangkok",
+                    "iata": "DMK",
+                    "icao": "VTBD",
+                    "terminal": "1",
+                    "gate": null,
+                    "baggage": "1",
+                    "scheduled": "2025-09-18T04:30:00+00:00",
+                    "delay": null,
+                    "estimated": "2025-09-18T04:28:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Thai Lion Air",
+                    "iata": "SL",
+                    "icao": "TLM"
+                },
+                "flight": {
+                    "number": "921",
+                    "iata": "SL921",
+                    "icao": "TLM921",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "unknown",
+                "departure": {
+                    "airport": "Hangzhou",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "HGH",
+                    "icao": "ZSHC",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T01:20:00+00:00",
+                    "estimated": "2025-09-18T01:20:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Nanjing Lukou International Airport",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "NKG",
+                    "icao": "ZSNJ",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T02:20:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "China Postal Airlines",
+                    "iata": "CF",
+                    "icao": "CYZ"
+                },
+                "flight": {
+                    "number": "9083",
+                    "iata": "CF9083",
+                    "icao": "CYZ9083",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Hangzhou",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "HGH",
+                    "icao": "ZSHC",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": 18,
+                    "scheduled": "2025-09-18T01:10:00+00:00",
+                    "estimated": "2025-09-18T01:10:00+00:00",
+                    "actual": "2025-09-18T01:27:00+00:00",
+                    "estimated_runway": "2025-09-18T01:27:00+00:00",
+                    "actual_runway": "2025-09-18T01:27:00+00:00"
+                },
+                "arrival": {
+                    "airport": "Beijing Capital International",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "PEK",
+                    "icao": "ZBAA",
+                    "terminal": "2",
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T03:05:00+00:00",
+                    "delay": 7,
+                    "estimated": "2025-09-18T03:12:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "SF Airlines",
+                    "iata": "O3",
+                    "icao": "CSS"
+                },
+                "flight": {
+                    "number": "7120",
+                    "iata": "O37120",
+                    "icao": "CSS7120",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Hangzhou",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "HGH",
+                    "icao": "ZSHC",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": 30,
+                    "scheduled": "2025-09-18T01:00:00+00:00",
+                    "estimated": "2025-09-18T01:00:00+00:00",
+                    "actual": "2025-09-18T01:29:00+00:00",
+                    "estimated_runway": "2025-09-18T01:29:00+00:00",
+                    "actual_runway": "2025-09-18T01:29:00+00:00"
+                },
+                "arrival": {
+                    "airport": "Shenzhen",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "SZX",
+                    "icao": "ZGSZ",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T03:05:00+00:00",
+                    "delay": 2,
+                    "estimated": "2025-09-18T03:07:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "SF Airlines",
+                    "iata": "O3",
+                    "icao": "CSS"
+                },
+                "flight": {
+                    "number": "7223",
+                    "iata": "O37223",
+                    "icao": "CSS7223",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "unknown",
+                "departure": {
+                    "airport": "Hangzhou",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "HGH",
+                    "icao": "ZSHC",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T01:00:00+00:00",
+                    "estimated": "2025-09-18T01:00:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Shenzhen",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "SZX",
+                    "icao": "ZGSZ",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T03:00:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "SF Airlines",
+                    "iata": "O3",
+                    "icao": "CSS"
+                },
+                "flight": {
+                    "number": "6832",
+                    "iata": "O36832",
+                    "icao": "CSS6832",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Hangzhou",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "HGH",
+                    "icao": "ZSHC",
+                    "terminal": "4",
+                    "gate": "J3-J",
+                    "delay": 29,
+                    "scheduled": "2025-09-18T00:55:00+00:00",
+                    "estimated": "2025-09-18T00:55:00+00:00",
+                    "actual": "2025-09-18T01:24:00+00:00",
+                    "estimated_runway": "2025-09-18T01:24:00+00:00",
+                    "actual_runway": "2025-09-18T01:24:00+00:00"
+                },
+                "arrival": {
+                    "airport": "Doha International",
+                    "timezone": "Asia/Qatar",
+                    "iata": "DOH",
+                    "icao": "OTHH",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": "4",
+                    "scheduled": "2025-09-18T04:50:00+00:00",
+                    "delay": null,
+                    "estimated": "2025-09-18T04:38:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Qatar Airways",
+                    "iata": "QR",
+                    "icao": "QTR"
+                },
+                "flight": {
+                    "number": "891",
+                    "iata": "QR891",
+                    "icao": "QTR891",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "unknown",
+                "departure": {
+                    "airport": "Hangzhou",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "HGH",
+                    "icao": "ZSHC",
+                    "terminal": null,
+                    "gate": null,
+                    "delay": null,
+                    "scheduled": "2025-09-18T00:15:00+00:00",
+                    "estimated": "2025-09-18T00:15:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Ninoy Aquino International",
+                    "timezone": "Asia/Manila",
+                    "iata": "MNL",
+                    "icao": "RPLL",
+                    "terminal": null,
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T03:15:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "YTO Cargo Airlines",
+                    "iata": "YG",
+                    "icao": "HYT"
+                },
+                "flight": {
+                    "number": "9079",
+                    "iata": "YG9079",
+                    "icao": "HYT9079",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Hangzhou",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "HGH",
+                    "icao": "ZSHC",
+                    "terminal": "4",
+                    "gate": "471",
+                    "delay": 27,
+                    "scheduled": "2025-09-18T00:10:00+00:00",
+                    "estimated": "2025-09-18T00:10:00+00:00",
+                    "actual": "2025-09-18T00:37:00+00:00",
+                    "estimated_runway": "2025-09-18T00:37:00+00:00",
+                    "actual_runway": "2025-09-18T00:37:00+00:00"
+                },
+                "arrival": {
+                    "airport": "Dubai",
+                    "timezone": "Asia/Dubai",
+                    "iata": "DXB",
+                    "icao": "OMDB",
+                    "terminal": "3",
+                    "gate": null,
+                    "baggage": "1",
+                    "scheduled": "2025-09-18T04:55:00+00:00",
+                    "delay": null,
+                    "estimated": "2025-09-18T04:29:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Emirates",
+                    "iata": "EK",
+                    "icao": "UAE"
+                },
+                "flight": {
+                    "number": "311",
+                    "iata": "EK311",
+                    "icao": "UAE311",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Hangzhou",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "HGH",
+                    "icao": "ZSHC",
+                    "terminal": null,
+                    "gate": "473",
+                    "delay": 47,
+                    "scheduled": "2025-09-18T00:05:00+00:00",
+                    "estimated": "2025-09-18T00:05:00+00:00",
+                    "actual": "2025-09-18T00:52:00+00:00",
+                    "estimated_runway": "2025-09-18T00:52:00+00:00",
+                    "actual_runway": "2025-09-18T00:52:00+00:00"
+                },
+                "arrival": {
+                    "airport": "Wattay",
+                    "timezone": "Asia/Vientiane",
+                    "iata": "VTE",
+                    "icao": "VLVT",
+                    "terminal": "D",
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T02:30:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Lao Airlines",
+                    "iata": "QV",
+                    "icao": "LAO"
+                },
+                "flight": {
+                    "number": "852",
+                    "iata": "QV852",
+                    "icao": "LAO852",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Hangzhou",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "HGH",
+                    "icao": "ZSHC",
+                    "terminal": "4",
+                    "gate": "476",
+                    "delay": 24,
+                    "scheduled": "2025-09-18T00:05:00+00:00",
+                    "estimated": "2025-09-18T00:05:00+00:00",
+                    "actual": "2025-09-18T00:28:00+00:00",
+                    "estimated_runway": "2025-09-18T00:28:00+00:00",
+                    "actual_runway": "2025-09-18T00:28:00+00:00"
+                },
+                "arrival": {
+                    "airport": "Cairo International Airport",
+                    "timezone": "Africa/Cairo",
+                    "iata": "CAI",
+                    "icao": "HECA",
+                    "terminal": "3",
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T06:35:00+00:00",
+                    "delay": null,
+                    "estimated": "2025-09-18T05:50:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "EgyptAir",
+                    "iata": "MS",
+                    "icao": "MSR"
+                },
+                "flight": {
+                    "number": "954",
+                    "iata": "MS954",
+                    "icao": "MSR954",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "active",
+                "departure": {
+                    "airport": "Hangzhou",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "HGH",
+                    "icao": "ZSHC",
+                    "terminal": "4",
+                    "gate": "476",
+                    "delay": 24,
+                    "scheduled": "2025-09-18T00:05:00+00:00",
+                    "estimated": "2025-09-18T00:05:00+00:00",
+                    "actual": "2025-09-18T00:28:00+00:00",
+                    "estimated_runway": "2025-09-18T00:28:00+00:00",
+                    "actual_runway": "2025-09-18T00:28:00+00:00"
+                },
+                "arrival": {
+                    "airport": "Cairo International Airport",
+                    "timezone": "Africa/Cairo",
+                    "iata": "CAI",
+                    "icao": "HECA",
+                    "terminal": "3",
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T06:35:00+00:00",
+                    "delay": null,
+                    "estimated": "2025-09-18T05:50:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Air China LTD",
+                    "iata": "CA",
+                    "icao": "CCA"
+                },
+                "flight": {
+                    "number": "5087",
+                    "iata": "CA5087",
+                    "icao": "CCA5087",
+                    "codeshared": {
+                        "airline_name": "egyptair",
+                        "airline_iata": "ms",
+                        "airline_icao": "msr",
+                        "flight_number": "954",
+                        "flight_iata": "ms954",
+                        "flight_icao": "msr954"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Shuangliu",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "CTU",
+                    "icao": "ZUUU",
+                    "terminal": "2",
+                    "gate": "L,M",
+                    "delay": null,
+                    "scheduled": "2025-09-18T10:10:00+00:00",
+                    "estimated": "2025-09-18T10:10:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Yun Cheng",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "YCU",
+                    "icao": "ZBYC",
+                    "terminal": "1",
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T11:50:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Tibet Airlines",
+                    "iata": "TV",
+                    "icao": "TBA"
+                },
+                "flight": {
+                    "number": "9703",
+                    "iata": "TV9703",
+                    "icao": "TBA9703",
+                    "codeshared": null
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Shuangliu",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "CTU",
+                    "icao": "ZUUU",
+                    "terminal": "2",
+                    "gate": "L,M",
+                    "delay": null,
+                    "scheduled": "2025-09-18T10:10:00+00:00",
+                    "estimated": "2025-09-18T10:10:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Yun Cheng",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "YCU",
+                    "icao": "ZBYC",
+                    "terminal": "1",
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T11:50:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Air China LTD",
+                    "iata": "CA",
+                    "icao": "CCA"
+                },
+                "flight": {
+                    "number": "5379",
+                    "iata": "CA5379",
+                    "icao": "CCA5379",
+                    "codeshared": {
+                        "airline_name": "tibet airlines",
+                        "airline_iata": "tv",
+                        "airline_icao": "tba",
+                        "flight_number": "9703",
+                        "flight_iata": "tv9703",
+                        "flight_icao": "tba9703"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Shuangliu",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "CTU",
+                    "icao": "ZUUU",
+                    "terminal": "2",
+                    "gate": "L,M",
+                    "delay": null,
+                    "scheduled": "2025-09-18T10:10:00+00:00",
+                    "estimated": "2025-09-18T10:10:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Yun Cheng",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "YCU",
+                    "icao": "ZBYC",
+                    "terminal": "1",
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T11:50:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Kunming Airlines",
+                    "iata": "KY",
+                    "icao": "KNA"
+                },
+                "flight": {
+                    "number": "6783",
+                    "iata": "KY6783",
+                    "icao": "KNA6783",
+                    "codeshared": {
+                        "airline_name": "tibet airlines",
+                        "airline_iata": "tv",
+                        "airline_icao": "tba",
+                        "flight_number": "9703",
+                        "flight_iata": "tv9703",
+                        "flight_icao": "tba9703"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Shuangliu",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "CTU",
+                    "icao": "ZUUU",
+                    "terminal": "2",
+                    "gate": "L,M",
+                    "delay": null,
+                    "scheduled": "2025-09-18T10:10:00+00:00",
+                    "estimated": "2025-09-18T10:10:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Yun Cheng",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "YCU",
+                    "icao": "ZBYC",
+                    "terminal": "1",
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T11:50:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Chengdu Airlines",
+                    "iata": "EU",
+                    "icao": "UEA"
+                },
+                "flight": {
+                    "number": "7883",
+                    "iata": "EU7883",
+                    "icao": "UEA7883",
+                    "codeshared": {
+                        "airline_name": "tibet airlines",
+                        "airline_iata": "tv",
+                        "airline_icao": "tba",
+                        "flight_number": "9703",
+                        "flight_iata": "tv9703",
+                        "flight_icao": "tba9703"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Shuangliu",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "CTU",
+                    "icao": "ZUUU",
+                    "terminal": "2",
+                    "gate": "L,M",
+                    "delay": null,
+                    "scheduled": "2025-09-18T10:10:00+00:00",
+                    "estimated": "2025-09-18T10:10:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Yun Cheng",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "YCU",
+                    "icao": "ZBYC",
+                    "terminal": "1",
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T11:50:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Shenzhen Airlines",
+                    "iata": "ZH",
+                    "icao": "CSZ"
+                },
+                "flight": {
+                    "number": "3929",
+                    "iata": "ZH3929",
+                    "icao": "CSZ3929",
+                    "codeshared": {
+                        "airline_name": "tibet airlines",
+                        "airline_iata": "tv",
+                        "airline_icao": "tba",
+                        "flight_number": "9703",
+                        "flight_iata": "tv9703",
+                        "flight_icao": "tba9703"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Shuangliu",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "CTU",
+                    "icao": "ZUUU",
+                    "terminal": "2",
+                    "gate": "L,M",
+                    "delay": null,
+                    "scheduled": "2025-09-18T10:10:00+00:00",
+                    "estimated": "2025-09-18T10:10:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Yun Cheng",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "YCU",
+                    "icao": "ZBYC",
+                    "terminal": "1",
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T11:50:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Shandong Airlines",
+                    "iata": "SC",
+                    "icao": "CDG"
+                },
+                "flight": {
+                    "number": "6183",
+                    "iata": "SC6183",
+                    "icao": "CDG6183",
+                    "codeshared": {
+                        "airline_name": "tibet airlines",
+                        "airline_iata": "tv",
+                        "airline_icao": "tba",
+                        "flight_number": "9703",
+                        "flight_iata": "tv9703",
+                        "flight_icao": "tba9703"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            },
+            {
+                "flight_date": "2025-09-18",
+                "flight_status": "scheduled",
+                "departure": {
+                    "airport": "Shuangliu",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "CTU",
+                    "icao": "ZUUU",
+                    "terminal": "2",
+                    "gate": "L,M",
+                    "delay": null,
+                    "scheduled": "2025-09-18T10:10:00+00:00",
+                    "estimated": "2025-09-18T10:10:00+00:00",
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "arrival": {
+                    "airport": "Yun Cheng",
+                    "timezone": "Asia/Shanghai",
+                    "iata": "YCU",
+                    "icao": "ZBYC",
+                    "terminal": "1",
+                    "gate": null,
+                    "baggage": null,
+                    "scheduled": "2025-09-18T11:50:00+00:00",
+                    "delay": null,
+                    "estimated": null,
+                    "actual": null,
+                    "estimated_runway": null,
+                    "actual_runway": null
+                },
+                "airline": {
+                    "name": "Loong Air",
+                    "iata": "GJ",
+                    "icao": "CDC"
+                },
+                "flight": {
+                    "number": "5183",
+                    "iata": "GJ5183",
+                    "icao": "CDC5183",
+                    "codeshared": {
+                        "airline_name": "tibet airlines",
+                        "airline_iata": "tv",
+                        "airline_icao": "tba",
+                        "flight_number": "9703",
+                        "flight_iata": "tv9703",
+                        "flight_icao": "tba9703"
+                    }
+                },
+                "aircraft": null,
+                "live": null
+            }
+        ]
+    }
+}
