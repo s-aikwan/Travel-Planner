@@ -2,10 +2,12 @@ import requests
 import json
 from datetime import datetime
 import os
-class MapCalculator:
+class TravelPlanner:
 
-    def __init__(self):
-        pass
+    def __init__(self,departure, arrival,date):
+        self.departure = departure
+        self.arrival = arrival
+        self.date = date
 
     def get_flight_data(self):
         if os.path.exists("flight_data.json"):
@@ -17,7 +19,7 @@ class MapCalculator:
                 if total_hours < 6:
                     print("No need to update")
                     return
-        url = "https://api.aviationstack.com/v1/flights?access_key=98c7847be4c43b70b1feac7b16cdf705"
+        url = "https://api.aviationstack.com/v1/flights?access_key=98c7847be4c43b70b1feac7b16cdf705&limit=100"
         response = requests.get(url)
         if response.status_code == 200:
             saved_data = {
